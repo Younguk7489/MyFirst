@@ -1,0 +1,6 @@
+obj/crypto/sha512.o: crypto/sha512.cpp \
+ /home/pskbank/soomcoin4nogen/src/crypto/sha512.h \
+ /home/pskbank/soomcoin4nogen/src/crypto/common.h
+crypto/sha512.cpp :
+ /home/pskbank/soomcoin4nogen/src/crypto/sha512.h :
+ /home/pskbank/soomcoin4nogen/src/crypto/common.h :

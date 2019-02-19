@@ -1,0 +1,48 @@
+!src/leveldb/Makefile 
+/build/*.o
+/build/moc*.*
+/build/ui*.*
+/src/obj/*.o
+/src/obj/*.P
+# Compiled Object files 
+*.slo 
+*.lo 
+*.o 
+*.obj 
+# Precompiled Headers 
+*.gch 
+*.pch 
+ 
+ 
+# Compiled Dynamic libraries 
+*.so 
+*.dylib 
+*.dll 
+ 
+ 
+# Fortran module files 
+*.mod 
+*.smod 
+ 
+ 
+# Compiled Static libraries 
+*.lai 
+*.la 
+*.a 
+*.lib 
+ 
+ 
+# Executables 
+*.exe 
+*.out 
+*.app 
+ 
+ 
+# Miscellaneous 
+.*.swp 
+*.*~* 
+*.bak 
+*.rej 
+*.orig 
+*.patch 
+
